@@ -6,7 +6,7 @@ This project is an interactive Streamlit web application that predicts residenti
 
 🔢 Input Customization: Number of occupants, house size, income, heating/cooling types, and more.
 
-⚙️ ML Model Switching: Choose from Random Forest, Decision Tree, and Linear Regression.
+⚙️ ML Model Switching: Choose from Random Forest, Decision Tree.
 
 📊 Visual Analytics: Histogram with prediction overlay, feature importance plot.
 
@@ -70,3 +70,4 @@ K Swetha Sree
 📧 [swethasreekongoti23@gmail.com]
 
 🔗 www.linkedin.com/in/swetha-sree-55ab14317 | https://github.com/K-SwethaSree
+
